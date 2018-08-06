@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/fluxaugur
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://FluxAugur.github.io
+  * I am fluxaugur (https://keybase.io/fluxaugur) on keybase.
+  * I have a public key ASDum5hwPZljri2ceVvtsDb7Q1mmb8RzCKu8TccAtzhQGgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ee9b98703d9963ae2d9c795bedb036fb4359a66fc47308abbc4dc700b738501a0a",
+      "host": "keybase.io",
+      "kid": "0120ee9b98703d9963ae2d9c795bedb036fb4359a66fc47308abbc4dc700b738501a0a",
+      "uid": "e5f895390fec800a2eafa171426b9619",
+      "username": "fluxaugur"
+    },
+    "merkle_root": {
+      "ctime": 1533573558,
+      "hash": "d5ce6d80ff861bc450db01719b345dee0c487180d493c3eb24e6fcd55bf931798dd5a5ab9b9df5d5b1bd1951b62502b60ae34035eb4920c9ee2f0d9a65dd9cff",
+      "hash_meta": "1da897e5b03a5c7cc7b268aa980b77db166cc5c77528c0bf0481481fc49d2eb4",
+      "seqno": 3415082
+    },
+    "service": {
+      "entropy": "TpM9ZXZBpNiXGMfyG0NEjLhX",
+      "hostname": "FluxAugur.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1533574211,
+  "expire_in": 504576000,
+  "prev": "e4178616d683bf7b84c2d62f9125cbbe4e2aef8222178317e5258b45abd0dbff",
+  "seqno": 33,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7puYcD2ZY64tnHlb7bA2+0NZpm/EcwirvE3HALc4UBoKp3BheWxvYWTESpcCIcQg5BeGFtaDv3uEwtYvkSXLvk4q74IiF4MX5SWLRavQ2//EIIXHrjdyHlAj96viuCYUqvfaFGiUjSPyeDROx1Si/4LFAgHCo3NpZ8RAqO966Y9IIym28a4G87cPFjjLxH7vy/n67i1nTo8nC9mFcppIvZjVl5Dm/33p8eZocph9M9tVDX0vxZupijuvC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEvv2EDPUfwAvxyPClzanQRjFcGfoXwv+yATntPc7/YIo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fluxaugur
+
+==================================================================
