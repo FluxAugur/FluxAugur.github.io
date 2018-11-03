@@ -13,6 +13,7 @@
 - [Awesome Awesome Lists](https://github.com/sindresorhus/awesome)
 - [Cheatsheets](https://devhints.io)
 - [git-hooks](https://github.com/icefox/git-hooks)
+- [gitignore](https://github.com/github/gitignore)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 ## Old Stuff
