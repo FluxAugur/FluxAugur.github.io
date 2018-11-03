@@ -9,3 +9,6 @@
 
 ## Useful Stuff
 - [Cheatsheets](https://devhints.io)
+
+## Old Stuff
+- [Personal Site](http://fluxaugur.github.io/FluxAugur.github.io_old/)
