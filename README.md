@@ -12,6 +12,7 @@
 - [asdf](https://github.com/asdf-vm/asdf)
 - [Awesome Awesome Lists](https://github.com/sindresorhus/awesome)
 - [Cheatsheets](https://devhints.io)
+- [git-hooks](https://github.com/icefox/git-hooks)
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 ## Old Stuff
