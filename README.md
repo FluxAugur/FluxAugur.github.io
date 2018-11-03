@@ -3,6 +3,7 @@
 ## My Stuff
 - [Dotfiles](https://github.com/FluxAugur/dotfiles)
 - [Dungeons & Dragons Tarokka Deck Reading](https://FluxAugur.github.io/tarokka)
+- [Gists](https://gist.github.com/FluxAugur)
 - [Resume](http://fluxaugur.github.io/resume/)
 
 ## Forked Stuff
