@@ -1,6 +1,7 @@
 # Stuff
 
 ## My Stuff
+- [Dotfiles](https://github.com/FluxAugur/dotfiles)
 - [Dungeons & Dragons Tarokka Deck Reading](https://FluxAugur.github.io/tarokka)
 
 
