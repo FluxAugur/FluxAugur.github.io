@@ -12,6 +12,7 @@
 - [asdf](https://github.com/asdf-vm/asdf)
 - [Awesome Awesome Lists](https://github.com/sindresorhus/awesome)
 - [Cheatsheets](https://devhints.io)
+- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 ## Old Stuff
 - [Personal Site](http://fluxaugur.github.io/FluxAugur.github.io_old/)
