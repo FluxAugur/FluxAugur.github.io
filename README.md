@@ -3,7 +3,6 @@
 ## My Stuff
 - [Dotfiles](https://github.com/FluxAugur/dotfiles)
 - [Dungeons & Dragons Tarokka Deck Reading](https://FluxAugur.github.io/tarokka)
-- [Gists](https://gist.github.com/FluxAugur)
 - [Resume](http://fluxaugur.github.io/resume/)
 
 ## Forked Stuff
@@ -17,4 +16,6 @@
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 ## Old Stuff
+- [Essentials](http://fluxaugur.github.io/essentials/)
+- [Gists](https://gist.github.com/FluxAugur)
 - [Personal Site](http://fluxaugur.github.io/FluxAugur.github.io_old/)
