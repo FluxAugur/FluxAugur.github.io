@@ -11,6 +11,7 @@
 ## Useful Stuff
 - [asdf](https://github.com/asdf-vm/asdf)
 - [Awesome Awesome Lists](https://github.com/sindresorhus/awesome)
+- [Awesome pnpm](https://github.com/pnpm/awesome-pnpm)
 - [Cheatsheets](https://devhints.io)
 - [git-hooks](https://github.com/icefox/git-hooks)
 - [gitignore](https://github.com/github/gitignore)
