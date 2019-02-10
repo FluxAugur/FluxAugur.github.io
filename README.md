@@ -21,3 +21,11 @@
 - [Essentials](http://fluxaugur.github.io/essentials/)
 - [Gists](https://gist.github.com/FluxAugur)
 - [Personal Site](http://fluxaugur.github.io/FluxAugur.github.io_old/)
+
+## Todo
+- Add LinkedIn badge to site
+[LinkedIn Script Tag](<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>)
+Badge One (Main Content)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="nathanialmcconnell"><a class="LI-simple-link" href='https://www.linkedin.com/in/nathanialmcconnell?trk=profile-badge'>Nathanial McConnell</a></div>
+Badge Two (Sidebar)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="nathanialmcconnell"><a class="LI-simple-link" href='https://www.linkedin.com/in/nathanialmcconnell?trk=profile-badge'>Nathanial McConnell</a></div>
