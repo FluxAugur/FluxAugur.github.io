@@ -22,6 +22,9 @@
 - [Gists](https://gist.github.com/FluxAugur)
 - [Personal Site](http://fluxaugur.github.io/FluxAugur.github.io_old/)
 
+## Neat Stuff
+- [Prince Love Symbol TTF](https://www.dropbox.com/sh/jvj2ss4jfymvir1/AADXW3RWGwgykj1mgsInvCRBa?dl=0)
+
 ## Todo
 - Add LinkedIn badge to site
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
